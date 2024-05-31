@@ -12,8 +12,8 @@ using Unity.Networking.Transport.Relay;
 public class NetworkConnect : MonoBehaviour
 {
     [SerializeField] private short maxPlayers = 4;
-     [SerializeField] private TextMeshProUGUI codeText;
-     [SerializeField] private TMP_InputField inputField;
+    [SerializeField] private TextMeshProUGUI codeText;
+    [SerializeField] private TMP_InputField inputField;
     
     private string joinCode;
 

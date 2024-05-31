@@ -24,6 +24,7 @@ public class NetworkPlayer : NetworkBehaviour
                 item.enabled = false;
             }
         }
+        
     }
 
     // Update is called once per frame
