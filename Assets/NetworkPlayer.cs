@@ -4,6 +4,7 @@ using System.Globalization;
 using Unity.Netcode;
 using Unity.XR.CoreUtils.Collections;
 using UnityEngine;
+using UnityEngine.XR.Interaction.Toolkit;
 
 public class NetworkPlayer : NetworkBehaviour
 {
@@ -24,7 +25,6 @@ public class NetworkPlayer : NetworkBehaviour
                 item.enabled = false;
             }
         }
-        
     }
 
     // Update is called once per frame

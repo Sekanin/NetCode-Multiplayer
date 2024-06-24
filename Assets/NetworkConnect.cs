@@ -16,6 +16,7 @@ public class NetworkConnect : MonoBehaviour
     [SerializeField] private TMP_InputField inputField;
     
     private string joinCode;
+    
 
     private async void Start()
     {
