@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Room Scene.unity
+    path: Assets/NetCode/Scenes/RoomScene.unity
     guid: 96618faf57351f14ba5b6d440ccb0a54
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/NetCode/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 958ee473bd743d34fb557662aafaf764,
